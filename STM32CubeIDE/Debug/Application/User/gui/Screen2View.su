@@ -1,0 +1,16 @@
+Screen.hpp:103:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:143:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:153:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+Screen2View.hpp:12:13:Screen2View::~Screen2View()	0	static
+Screen2View.cpp:19:6:virtual void Screen2View::tearDownScreen()	0	static
+Screen2View.cpp:36:6:virtual void Screen2View::SetVariables()	0	static
+Screen2View.cpp:14:6:virtual void Screen2View::setupScreen()	0	static
+Screen2View.cpp:24:6:virtual void Screen2View::SetClock()	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+Screen2View.hpp:12:13:virtual Screen2View::~Screen2View()	8	static
+Bitmap.hpp:133:14:touchgfx::BitmapId touchgfx::Bitmap::getId() const	8	static
+ToggleButton.hpp:58:10:bool touchgfx::ToggleButton::getState() const	8	static
+Screen2View.cpp:45:6:virtual void Screen2View::IncreaseValueFun()	40	static
+Screen2View.cpp:115:6:virtual void Screen2View::DecreaseValueFun()	24	static
+Screen2View.cpp:9:1:Screen2View::Screen2View()	8	static

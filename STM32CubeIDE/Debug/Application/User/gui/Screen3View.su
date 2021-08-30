@@ -1,0 +1,16 @@
+Screen.hpp:103:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:143:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:153:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+Screen3View.hpp:11:13:Screen3View::~Screen3View()	0	static
+Screen3View.cpp:17:6:virtual void Screen3View::tearDownScreen()	0	static
+Screen3View.cpp:23:6:virtual void Screen3View::ClearAlarmVar()	0	static
+Screen3View.cpp:32:6:virtual void Screen3View::SetAlarmVal()	0	static
+Screen3View.cpp:12:6:virtual void Screen3View::setupScreen()	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+Screen3View.hpp:11:13:virtual Screen3View::~Screen3View()	8	static
+Bitmap.hpp:133:14:touchgfx::BitmapId touchgfx::Bitmap::getId() const	8	static
+ToggleButton.hpp:58:10:bool touchgfx::ToggleButton::getState() const	8	static
+Screen3View.cpp:41:6:virtual void Screen3View::IncreaseValueAlarmFun()	40	static
+Screen3View.cpp:91:6:virtual void Screen3View::DecreaseValueAlarmFun()	24	static
+Screen3View.cpp:7:1:Screen3View::Screen3View()	8	static

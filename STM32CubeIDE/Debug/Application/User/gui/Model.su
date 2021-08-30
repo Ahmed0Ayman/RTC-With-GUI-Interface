@@ -1,0 +1,4 @@
+Model.cpp:14:1:Model::Model()	0	static
+Model.cpp:19:6:void Model::tick()	0	static
+Model.cpp:32:6:void Model::GetRTCRealValues(int*, int*, int*)	0	static
+Model.cpp:42:6:void Model::SetRTCRealValues()	0	static
